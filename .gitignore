@@ -1,0 +1,20 @@
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 环境变量 / 密钥
+.env
+
+# 编辑器
+.idea/
+.vscode/
+
+# 模型权重与数据集等大文件
+*.pth
+*.pt
+*.onnx
